@@ -5,7 +5,7 @@ Wireframe feito com componentes e elementos de Bootstrap
 ## Componentes e elementos do Bootstrap utilizados
 
 - Navbar - área de navegação e de pesquisa do site
-- Carrousel - Carrossel de imagens com legendas
+- Carrousel - Carrossel de imagens
 - Text-Align - Centralização de textos por meio de Bootstrap
 - Cards - Cards de demonstração e visualização no site, que possibilita adicionar legendas e botões
 - Jumbotron - Um componente leve e flexível que pode se extender pela viewport inteira para exibir mensagens de market, em seu site.
